@@ -70,6 +70,7 @@ public class Main {
     int c=odczyt.nextInt();
     int d=b*b-4*a*c;
     System.out.println("Delta = "+d);
+    System.out.println("Delta = "+d);
             }
     
 }
